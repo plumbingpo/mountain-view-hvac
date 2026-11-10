@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mountainviewhvacco.com/sitemap.xml
